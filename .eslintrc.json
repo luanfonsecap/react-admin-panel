@@ -28,6 +28,7 @@
         "no-duplicate-imports": "error",
         "react/react-in-jsx-scope": "off"
     },
+    "ignorePatterns": ["*.js"],
     "settings": {
         "import/resolver": {
           "typescript": {}
